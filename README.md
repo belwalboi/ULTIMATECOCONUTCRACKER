@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ULTIMATECOCONUTCRACKER
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m   Harshit Belwal
+- 🌱 I’m currently learning Python and KOTLIN
 - 💞️ I’m looking to collaborate on small basic projects
 - 📫 How to reach me ...
 harshitbelwal95@gmail.com
